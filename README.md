@@ -7,6 +7,7 @@ characters, npcs, weapons, items etc.
 ![alt text](https://cdn-images-1.medium.com/max/888/1*zEsSWn__OqnXdxy6sTLn6g.png)
 
 If you want to see the complete tutorial, please check this post.
+
 https://medium.com/@erasmosoares/criando-um-data-manager-para-unity3d-c26d9c16c2c5
 
 Hope you like it!
