@@ -1,5 +1,5 @@
-# UnityDataManager
-DataManger for Unity3D
+# Unity Data Manager
+- DataManger for Unity3D
 
 This is a Data Manager for Unity 3D. This is just an example to help how to develop an easy way to manage level atributes for your 
 characters, npcs, weapons, items etc.
